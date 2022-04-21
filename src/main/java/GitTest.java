@@ -7,5 +7,6 @@ public class GitTest {
         System.out.println("test for git");
         System.out.println("test for git2");
         System.out.println("test for git3");
+        System.out.println("conflict test zhijie.huang");
     }
 }
