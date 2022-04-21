@@ -6,5 +6,6 @@ public class GitTest {
     public static void main(String[] args) {
         System.out.println("test for git");
         System.out.println("test for git2");
+        System.out.println("test for git3");
     }
 }
